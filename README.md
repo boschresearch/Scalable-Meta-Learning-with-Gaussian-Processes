@@ -1,9 +1,10 @@
-# ScaML-GP - Scalable Meta-Learning with Gaussian Processes
+# ScaML-GP - Scalable Meta-Learning with Gaussian Processes (AISTATS 2024)
 
 This is the companion code for the benchmarking study reported in the publication
 "Scalable Meta-Learning with Gaussian Processes" by Petru Tighineanu, Lukas Grossberger,
 Paul Baireuther, Kathrin Skubch, Stefan Falkner, Julia Vinogradska, and Felix
-Berkenkamp, which can be found here https://arxiv.org/html/2312.00742v1.
+Berkenkamp, which was accepted for publication at AISTATS 2024 and can be found here 
+https://arxiv.org/html/2312.00742v1.
 The code allows the users to reproduce and extend results reported in the study.
 Please cite the above paper when reporting, reproducing or extending the results.
 
@@ -36,15 +37,18 @@ to submit for example the Branin benchmark runs for ScaML-GP and visualize the r
 In case you are using or would like to refer to ScaML-GP, please use the following
 citation:
 ```bibtex
-@misc{tighineanu2023scalable,
-      title={Scalable Meta-Learning with Gaussian Processes}, 
+@article{tighineanu2024scalable,
+      title={{Scalable Meta-Learning with Gaussian Processes}}, 
       author={Petru Tighineanu and Lukas Grossberger and Paul Baireuther and Kathrin Skubch and Stefan Falkner and Julia Vinogradska and Felix Berkenkamp},
-      year={2023},
-      eprint={2312.00742},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+      year={2024},
+      journal={International Conference on Artificial Intelligence and Statistics}
 }
 ```
+
+## Contact
+
+* Petru Tighineanu: petru.tighineanu@de.bosch.com
+* Lukas Grossberger: lukas.grossberger@de.bosch.com
 
 ## License
 
